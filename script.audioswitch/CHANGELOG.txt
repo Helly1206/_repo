@@ -1,0 +1,22 @@
+CHANGELOG
+
+1.0.3: (2015-03-07)
+- Added language files for English and Dutch
+
+1.0.2: (2015-02-17)
+- detect "ALSA:" from bash script
+- Added functionality for pulse-audio devices
+- Removed typo in device name
+
+1.0.1: (2015-02-16)
+- Display correct addon name in log
+- Added "ALSA:", now correct output is selected after restart. Only works for alsa, not for PulseAudio
+
+1.0.0: (2015-02-07)
+- Extract audio options from log file (these are logged every time a user logs on)
+- Ability to configure addon, no hard coded parameters anymore
+- Select between all audio outputs and possibility to add user friendly name
+
+0.9.0:
+- Initial Release
+- No settings yet, only able to switch between HDMI and analog audio hardcoded in script
