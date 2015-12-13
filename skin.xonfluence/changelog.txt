@@ -87,8 +87,3 @@
 - Updated language file (en_gb), rest to be generated.
 - Removed sideblade when return from guide (go completely left to show sideblade)
 - Slightly modified VideoOSD view
-
-
-
-
-
