@@ -1,0 +1,7 @@
+CHANGELOG
+
+0.9.0: 
+- Initial version
+- Implemented grabber service, kodi script and python script to access from desktop
+
+
