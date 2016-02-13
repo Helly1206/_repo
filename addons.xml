@@ -135,7 +135,7 @@
 
 <addon id="service.webgrabplusplus"
        name="WebGrab++ Management for Kodi"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Helly">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
