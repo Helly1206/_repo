@@ -1,9 +1,12 @@
 CHANGELOG
 
-1.0.0:
+[B]1.0.1[/B]
+- Added trying a total new grab (delete xml files) after 2nd grab failure
+
+[B]1.0.0[/B]
 - Socket connection between desktop tool and service, no json commands via script required anymore
 
-0.9.0: 
+[B]0.9.0[/B]
 - Initial version
 - Implemented grabber service, kodi script and python script to access from desktop
 
