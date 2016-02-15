@@ -57,10 +57,10 @@
 
 <addon id="script.moviecopy"
        name="Kodi Movie Copier"
-       version="0.9.2"
+       version="1.0.0"
        provider-name="Helly">
   <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="xbmc.python" version="2.20.0"/>
   </requires>
   <extension point="xbmc.python.script"
              library="default.py" />
