@@ -1,5 +1,10 @@
 CHANGELOG
 
+[B]1.0.1[/B]
+- Removed hard link to log-path ;-(
+- Change number of lines to be compatible with more fonts
+- Truncate long lines in logfiles
+
 [B]1.0.0[/B]
 - Initial version
 
