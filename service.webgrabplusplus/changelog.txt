@@ -1,5 +1,8 @@
 CHANGELOG
 
+[B]1.0.2[/B]
+- Updated desktop script for wx 3
+
 [B]1.0.1[/B]
 - Added trying a total new grab (delete xml files) after 2nd grab failure
 
