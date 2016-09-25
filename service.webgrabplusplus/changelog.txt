@@ -1,5 +1,11 @@
 CHANGELOG
 
+[B]1.0.3[/B]
+- Updated to latest release of WebGrab++ V1.57
+- Fixed entering loop when end time not read ...
+- fixed UT/ Local time issue, by getting logfile time
+- Updated desktop script (better appearance on some desktops)
+
 [B]1.0.2[/B]
 - Updated desktop script for wx 3
 
