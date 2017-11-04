@@ -94,7 +94,7 @@
 
 <addon id="service.hts.pvrmanager"
        name="TVHeadend Power and Recording Management"
-       version="1.0.8"
+       version="1.0.9"
        provider-name="Helly, based on nmcaullays PVR-Uptime">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
