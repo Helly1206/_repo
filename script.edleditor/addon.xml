@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.edleditor"
+       name="Edit EDL files for Kodi"
+       version="0.8.0"
+       provider-name="Helly">
+  <requires>
+    <import addon="xbmc.python" version="2.20.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">EDL editor</summary>
+    <description lang="en">EDL editor to create, edit enable or disable EDL files (or comskip txt files) for Kodi.</description>
+    <disclaimer lang="en">Use at your own risk. No liability for not set timers, lack of EPG data and other side effects!</disclaimer>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source>https://github.com/Helly1206/script.edleditor</source>
+  </extension>
+</addon>
