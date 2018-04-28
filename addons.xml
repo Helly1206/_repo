@@ -2,7 +2,7 @@
 <addons>
 <addon
   id="skin.xonfluence"
-  version="3.4.0"
+  version="4.0.0"
   name="Xonfluence"
   provider-name="Helly">
   <requires>
@@ -16,7 +16,7 @@
     point="xbmc.gui.skin"
     debugging="false"
     effectslowdown="1.0">
-    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
@@ -245,5 +245,29 @@
             <description>HellyRepo is a repository that contains addons and scripts to be used with kodi.</description>
             <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="resource.images.moviegenrefanart.xonfluence" name="Movie Genre Fanart - Xonfluence" version="0.0.1" provider-name="Helly">
+	<extension point="kodi.resource.images" compile="false" type="moviegenrefanart" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Xonfluence style movie genre fanart backgrounds</summary>
+		<description lang="en">Xonfluence style movie genre fanart backgrounds</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="resource.images.skinbackgrounds.xonfluence" name="Skin Backgrounds - Xonfluence" version="0.0.1" provider-name="Helly">
+	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Skin Backgrounds Pack - Xonfluence Design</summary>
+		<description lang="en">Skin Backgrounds Pack - Xonfluence Design</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 </addons>
