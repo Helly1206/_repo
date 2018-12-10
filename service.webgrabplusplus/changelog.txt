@@ -1,10 +1,12 @@
 CHANGELOG
 
+[B]1.0.4[/B] From Kodi 18
+- Updated skin to comply with kodi 18
+- Added new 'default' skin with modern look and feel and moved old skin to 'classic'
+- Converted to python 3 for future compatibility
+
 [B]1.0.3[/B]
-- Updated to latest release of WebGrab++ V1.57
-- Fixed entering loop when end time not read ...
-- fixed UT/ Local time issue, by getting logfile time
-- Updated desktop script (better appearance on some desktops)
+- Bug changes
 
 [B]1.0.2[/B]
 - Updated desktop script for wx 3
