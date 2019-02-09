@@ -53,7 +53,7 @@
 
 <addon id="script.audioswitch"
        name="Kodi Audio Switch"
-       version="1.0.4"
+       version="1.0.5"
        provider-name="Helly">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
@@ -76,7 +76,7 @@
 
 <addon id="script.moviecopy"
        name="Kodi Movie Copier"
-       version="1.0.2"
+       version="1.0.3"
        provider-name="Helly">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
@@ -99,7 +99,7 @@
 
 <addon id="service.hts.pvrmanager"
        name="TVHeadend Power and Recording Management"
-       version="1.0.10"
+       version="1.0.11"
        provider-name="Helly, based on nmcaullays PVR-Uptime">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
@@ -131,7 +131,7 @@
 
 <addon id="script.streamgenerator"
        name="Kodi Stream Generator"
-       version="0.9.1"
+       version="0.9.2"
        provider-name="Helly">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
@@ -175,10 +175,10 @@
 
 <addon id="script.kodilog"
        name="Kodi log Viewer"
-       version="1.0.2"
+       version="1.0.3"
        provider-name="Helly">
   <requires>
-    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="xbmc.python" version="2.20.0"/>
   </requires>
   <extension point="xbmc.python.script" library="default.py"/>
   <extension point="xbmc.addon.metadata">
@@ -195,7 +195,7 @@
 
 <addon id="script.edleditor"
        name="Edit EDL files for Kodi"
-       version="0.8.1"
+       version="0.8.2"
        provider-name="Helly">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>

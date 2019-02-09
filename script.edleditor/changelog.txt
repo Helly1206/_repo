@@ -1,5 +1,8 @@
 CHANGELOG
 
+[B]0.8.2[/B] From Kodi 18
+- Updated python 3 conversion to work correctly for python2 and python3
+
 [B]0.8.1[/B] From Kodi 18
 - Updated skin to comply with kodi 18
 - Added new 'default' skin with modern look and feel and moved old skin to 'classic'
