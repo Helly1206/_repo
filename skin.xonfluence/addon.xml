@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.xonfluence"
-  version="4.0.10"
+  version="4.1.1"
   name="Xonfluence"
-  provider-name="Helly">
+  provider-name="Helly,bsoriano">
   <requires>
-    <import addon="xbmc.gui" version="5.14.0"/>
-	  <import addon="script.favourites" version="7.1.1"/>
-	  <import addon="service.skin.widgets" version="0.0.33"/>
-	  <import addon="service.library.data.provider" version="0.3.2"/>
-	  <import addon="script.randomandlastitems" version="2.2.2"/>
+    <import addon="xbmc.gui" version="5.15.0"/>
   </requires>
   <extension
     point="xbmc.gui.skin"
@@ -29,10 +25,10 @@
     <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
     <platform>all</platform>
 	  <license>GNU General Public License version 2</license>
-	  <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
+	  <forum>https://forum.kodi.tv/showthread.php?tid=346302</forum>
 	  <website></website>
 	  <email></email>
-	  <source>https://github.com/Helly1206/skin.xonfluence</source>
+	  <source>https://github.com/bartolomesoriano/skin.xonfluence</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
